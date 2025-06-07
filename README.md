@@ -1,2 +1,2 @@
 # git.test
-Odin kontol
+Odin 
